@@ -1,2 +1,1 @@
-print('cos4')
-
+print('cos10')
