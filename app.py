@@ -1,1 +1,1 @@
-print('cos101')
+print('komentarz')
